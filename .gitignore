@@ -1,0 +1,6 @@
+# Publish only the standalone website and its documentation.
+*
+!.gitignore
+!.nojekyll
+!index.html
+!README.md
